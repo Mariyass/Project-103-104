@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(253, 192, 255);
+
+}
+
+p{
+    color: white;
+}
+b{
+    color: rgb(8, 0, 0);
+}
+label{
+    color: white;
+}
+.heading{
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 25;
+}
